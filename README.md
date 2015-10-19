@@ -2,7 +2,7 @@ Description
 ===========
 
 This is a GO binding library (plus some additions) for the
-(UltraEasy)[https://github.com/daniel-thompson/ultraeasy] library.
+[UltraEasy](https://github.com/daniel-thompson/ultraeasy) library.
 
 Usage
 ======
