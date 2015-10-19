@@ -2,10 +2,7 @@ Description
 ===========
 
 This is a GO binding library (plus some additions) for the
-[[https://github.com/daniel-thompson/ultraeasy|Libultraeasy]] library.
-
-This library is a third party library for accessing the
-Lifescan OneTouch UltraEasy devices.
+(UltraEasy)[https://github.com/daniel-thompson/ultraeasy] library.
 
 Usage
 ======
@@ -15,7 +12,7 @@ You will need to have libultraeasy installed on the system
 ```bash
 $ sudo add-apt-repository ppa:niedbalski/ultraeasy-driver
 $ sudo apt-get update
-$ sudo apt-get install libultraeasy libultreasy-dev
+$ sudo apt-get install libultraeasy libultraeasy-dev
 ```
 
 * Example code:
